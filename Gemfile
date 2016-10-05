@@ -16,6 +16,7 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'better_errors'
+  gem 'factory_girl', '~> 4.7'
 end
 
 group :development do
