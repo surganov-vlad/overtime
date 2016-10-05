@@ -9,8 +9,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'haml'
-gem 'haml-rails'
 
 group :development, :test do
   gem 'byebug'
@@ -24,3 +22,8 @@ group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
 end
+
+gem 'haml', '~> 4.0', '>= 4.0.7'
+gem 'haml-rails', '~> 0.9.0'
+gem 'devise', '~> 4.2'
+gem "erb2haml", :group => :development
