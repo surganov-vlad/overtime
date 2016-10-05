@@ -27,3 +27,4 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'haml-rails', '~> 0.9.0'
 gem 'devise', '~> 4.2'
 gem "erb2haml", :group => :development
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
