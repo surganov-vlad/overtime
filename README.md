@@ -9,6 +9,13 @@
 
 ## Features:
 - [ ] Approval Workflow
+  - [x] Create new attribute inside of Post (status).
+    - [ ] Status needs to be required
+    - [x] Status needs to have a default value of pending
+  - [ ] Implement Approval Stages
+    - [ ] R -> A -> L
+    - [ ] R -> R -> U
+  - [ ] Locking Posts
 - [ ] SMS Sending -> link to approval or overtime
 - [x] Admin Dashboard
 - [x] Block non-admin and not signed up users
