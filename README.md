@@ -10,8 +10,8 @@
 ## Features:
 - [ ] Approval Workflow
 - [ ] SMS Sending -> link to approval or overtime
-- [ ] Admin Dashboard
-- [ ] Block non-admin and not signed up users
+- [x] Admin Dashboard
+- [x] Block non-admin and not signed up users
 - [ ] Email Summary to managers
 - [ ] Needs to be documented if employee did not log overtime
 
